@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="96b9da60" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 8" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-96b9da60-N439SS._adb-tls-connect._tcp" />
           </Key>
