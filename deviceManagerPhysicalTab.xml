@@ -8,8 +8,9 @@
             <value value="96b9da60" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Xiaomi Redmi Note 8" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
